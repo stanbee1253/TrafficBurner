@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">流量消耗器</string>
+
+    <string-array name="source_labels">
+        <item>自动轮换（推荐，某源被拦自动换）</item>
+        <item>仅腾讯云镜像</item>
+        <item>仅华为云镜像</item>
+        <item>自定义直链（定向消耗用这个）</item>
+    </string-array>
+</resources>
